@@ -1,0 +1,21 @@
+                                                                                                                                                                Variables
+Computers can retain information if we tell them to; to accomplish this, computers use something called variables. 
+Variables are like boxes, they can store information and be organized by name to tell us the contents that are inside of them. 
+
+                                                                                                                                                            Creating Variables
+To create a variable, we use the term "var" followed by a name. 
+ e.g: varfriend 
+    
+    It is important to note that there are NO spaces between the words to create a variable. In addition, variable names will generally contain capital letters for each word in succession of the first, which is ALWAYS LOWERCASE.
+
+                                                                                                                                                          Assigning Values to Variables
+Now that we know how to create a variable, we should start assigning values for them to store. 
+
+To give our "friend" variable information to store we would write as follows. 
+eg: varfriend = "Peter";
+
+To display this variable, we use the Console that we learned about earlier. 
+var friend = "Peter";
+Console.Writeline (friend);
+
+This code would output the variable stored in friend, "Peter", to the console output. 
