@@ -1,0 +1,31 @@
+                                                                                                                                                        Getting Started
+
+
+
+
+"Console": A tool used by developers to get feedback for code
+
+e,.g: Console.WriteLine (     );
+
+The above code will display what is contained within the parentheses in a Console Output box. 
+
+e.g: Console.Writeline (Hello, World!);
+
+The code must be written in the correct order in order to function, followed by a semicolon ";"
+
+1: Console 2: Writeline 3: (Insert Test Here) 4: semicolon ";" = Console.Writeline (Hello, World!);
+
+The semicolon is used in the C# language to say that an instruction is over
+
+Parentheses are used to tell our computer that we want something to be done with the information provided
+
+Codes are run line by line and our Computers carry out their instructions. 
+
+                                                                                                                                                        Applied Learning
+
+Console.Writeline (On Your Mark...);
+Console.Writeline (Get Set...);
+Console.Writeline (GO!);
+
+
+
