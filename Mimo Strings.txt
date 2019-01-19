@@ -1,0 +1,102 @@
+                                                                                                                                                                                                                                                                                     Strings
+
+When something is put in double quotes (" ") it is called a String.
+e.g: var greeting = "Hello Sam";
+
+We can store strings in Variables. 
+e.g: The sequence
+
+var verb= "play";
+Console.Write (verb); 
+
+would result in "play" appearing in the console. 
+
+                                                                                                                                                                                                                                                                                    Adding Strings
+
+There are a myriad of options that was have for strings, for example, we can add them together using the + sign.
+
+e.g: 
+var verb = "play";
+Console.Writeline ("We Are" + verb + "ing");
+
+The code written above would output: We Are playing 
+
+                                                                                                                                                                                                                                                                                      Numbers
+
+Values can also be numbers. Unlike strings, they do NOT have quotes around them. e.g: 1, NOT "1" 
+
+We can add numbers together like strings, but the result that we get is different!
+
+e.g: 
+
+var number = 1 + 1;
+Console.Writeline  (number); 
+
+The code written above would output: 2
+
+We can perform other arithmetic operations as well. 
+
+eg:
+
+var number = 2 - 2;
+Console.Writeline (number);
+
+The code written above would output: 0
+
+var number = 5 * 3;
+Console.Writeline (number);
+
+The code written above would output: 15
+
+Finally, we can divide numbers as well, but the results are interesting...
+
+e.g:
+
+var number = 10 / 3;
+Console.Writeline (number);
+
+The code written above would output: 3 ??
+
+                                                                                                                                                                                                                                                                                    Integers
+
+Numbers without a decimal point are Integers. No matter if we perform any arithmetic operations on them, the result will always be an integer. 
+
+e.g: 15
+
+                                                                                                                                                                                                                                                                                    Doubles
+
+Numbers with a decimal point are Doubles. 
+
+e.g: var pi = 3.1415; 
+
+To get a double from an arithmetic operation, at least one of the numbers needs to be a double. 
+
+e.g: var number = 10.0 / 3
+Console.Writeline (number)
+
+The code written above would output: 3.33333333 (That's more like it!)
+
+                                                                                                                                                                                                                                                                             Strings and Numbers
+
+When adding values together, we must make sure that they are EITHER STRINGS OR NUMBERS. They cannot be used in the same sequence together. 
+
+e.g: 
+
+var sentence: "We are a family of" + "5";
+Console.Writeline  (sentence); 
+
+The code written above would output: We are a family of 5
+
+                                                                                                                                                                                                                                                                                    Game System!
+
+With the knowledge of numbers and strings above, we're able to create a scoring system for our game!
+
+var coins = 10;
+var coinValue = 6.0;
+
+var score = coins * coinValue;
+Console.Writeline (score);
+
+The code written above would output: 60 
+
+This would give us 60 points in our game if 6 coins are obtained! 
