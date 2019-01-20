@@ -13,7 +13,7 @@ e.g: Console.Writeline (Hello, World!);
 
 The code must be written in the correct order in order to function, followed by a semicolon ";"
 
-1: Console 2: Writeline 3: (Insert Test Here) 4: semicolon ";" = Console.Writeline (Hello, World!);
+1: Console 2: Writeline 3: (Insert Text Here) 4: semicolon ";" = Console.Writeline (Hello, World!);
 
 The semicolon is used in the C# language to say that an instruction is over
 
