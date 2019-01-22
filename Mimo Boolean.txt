@@ -1,0 +1,105 @@
+                                                                                                                                                                                                                                                                            Boolean
+
+Boolean values differ from strings and numbers in that they CAN ONLY BE TRUE or FALSE.
+
+e.g: 
+
+var newGame = true;
+Console.Writeline = (newGame);
+
+The code written above would output TRUE. 
+
+Most of the time, booleans are obtained by comparing values and variables with each other.  
+We can use two equal signs (==) to check if two values are the same. 
+
+e.g: 
+
+Console.Writeline = ("Apples" == "Oranges"); 
+
+The code written above would output FALSE. 
+
+Console.Writeline = ("Apples" == "Apples"); 
+
+The code written above would output TRUE. 
+
+We can store the results of these comparisons in VARIABLES. 
+
+e.g:
+
+var result = "Apples" == "Oranges";
+Console.Writeline = (results);
+
+The code written above would output FALSE. 
+
+There is a big difference between "=" and "==". We use "=" to STORE VALUES and "==" to COMAPRE them. 
+
+                                                                                                                                                                                                                                                                        Different Boolean Strings 
+
+We can also check if two strings are NOT the same. The operator used for this is called not equals, signified as "!="
+
+e.g: 
+var result = "Apples" != "Oranges";
+Console.Writeline= (result); 
+
+The code written above would output TRUE. 
+
+var result = "Apples" != "Apples"; 
+Console.Writeline = (result);
+
+The code written above would output FALSE. 
+
+                                                                                                                                                                                                                                                                        Comparing Numbers
+
+We can use "==" and "!=" to compare pretty much any type, including numbers. 
+
+e.g: 
+Console.Writeline = (1 == 10);
+
+The code written above would output FALSE. 
+
+Console.Writeline = (10 == 10);
+
+The code written above would output TRUE. 
+
+var result = 1 != 10; 
+Console. Writeline = (result); 
+
+The code written above would output TRUE. 
+
+However, we can also figure out HOW numbers differ from each other using the greater than ">" or less than "<" signs. 
+
+e.g: 
+
+var result = 1 < 10;
+Console.Writeline = (result);
+
+The code written above would output TRUE. 
+
+var result = 1 > 10;
+Console.Writeline = (result);
+
+The code written above would output FALSE.
+
+                                                                                                                                                                                                                                                                        Comparing variables
+
+We are not only limited to values, though. We can also use variables. 
+
+e.g: 
+
+var number = 1;
+var result = number == 10;
+Console.Writeline = (result); 
+
+The code written above would output FALSE. 
+
+                                                                                                                                                                                                                                                                    Applying Concepts 
+
+With this knowledge, we already know how to check if a PASSWORD IS CORRECT
+
+var password = "Swordfish";
+var loggedIn = password == "Swordfish";
+Console.Writeline = (loggedIn);
+
+The code written above would output TRUE. 
+
+This is how code checks passwords. 
