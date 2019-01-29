@@ -8,4 +8,8 @@ Provo Cloudy 37 Degrees
 Provo Snow 30 Degrees
 Provo Mostly Cloudy 31 Degrees
 Provo Clear 29 Degrees
+<<<<<<< HEAD
 Provo Mostly Cloudy 28 Degrees
+=======
+Provo Clear 31 Degrees
+>>>>>>> master
