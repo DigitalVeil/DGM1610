@@ -2,13 +2,14 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class Mammal : Animal
+public class Bird : Animal
 {
 
-	public Color furColor;
-	
-	public Color noseColor; 
+	public Color wings;
 
+	public Color talons;
+
+	public Color beak; 
 	// Use this for initialization
 	void Start () {
 		
