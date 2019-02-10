@@ -8,8 +8,15 @@ public class Reptile : Animal
 
 	public Color teethFangColor; 
 	// Use this for initialization
-	void Start () {
+	void Start ()
+	{
+		GetComponent<SpriteRenderer>().color = skinColor;
 		
+		GetComponent<SpriteRenderer>().color = scaleColor;
+
+		GetComponent<SpriteRenderer>().color = teethFangColor;
+
+		GetComponent<SpriteRenderer>().color = eyeColor;
 	}
 	
 	// Update is called once per frame
