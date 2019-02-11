@@ -11,7 +11,13 @@ public class Mammal : Animal
 
 	// Use this for initialization
 	void Start () {
-		
+		GetComponent<SpriteRenderer>().color = skinColor;
+        		
+        		GetComponent<SpriteRenderer>().color = furColor;
+        
+        		GetComponent<SpriteRenderer>().color = noseColor;
+        
+        		GetComponent<SpriteRenderer>().color = eyeColor;
 	}
 	
 	// Update is called once per frame
