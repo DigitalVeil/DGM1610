@@ -4,7 +4,9 @@ using UnityEngine;
 
 public class Bird : Animal
 {
-
+	public int FeatherCount = 75;
+	public float FallSpeed = 9.7f;
+	public bool CanFall = true; 
 	public Color wings;
 
 	public Color talons;

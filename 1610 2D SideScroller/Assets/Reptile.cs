@@ -4,6 +4,9 @@ using UnityEngine;
 
 public class Reptile : Animal
 {
+	public int ScaleCount = 100;
+	public float FallSpeed = 6.7f;
+	public bool CanFall = true; 
 	public Color scaleColor;
 
 	public Color teethFangColor; 

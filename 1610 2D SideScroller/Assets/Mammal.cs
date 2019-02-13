@@ -1,10 +1,14 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class Mammal : Animal
 {
-
+	public int FurCount = 3;
+	public float FallSpeed = 3.2f;
+	public bool CanFall = true;
+	public UnityEvent Event; 
 	public Color furColor;
 	
 	public Color noseColor; 
@@ -18,6 +22,8 @@ public class Mammal : Animal
         		GetComponent<SpriteRenderer>().color = noseColor;
         
         		GetComponent<SpriteRenderer>().color = eyeColor;
+                
+                Event.Invoke();
 	}
 	
 	// Update is called once per frame

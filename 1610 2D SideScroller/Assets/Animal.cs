@@ -6,7 +6,9 @@ public class Animal : MonoBehaviour
 {
 
 	public string name;
-
+	public int Health;
+	public float Speed;
+	public bool CanMove; 
 	public Color skinColor;
 
 	public Color eyeColor; 
