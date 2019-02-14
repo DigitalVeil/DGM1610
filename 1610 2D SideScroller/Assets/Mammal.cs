@@ -6,7 +6,7 @@ using UnityEngine.Events;
 public class Mammal : Animal
 {
 	public int FurCount = 3;
-	public float FallSpeed = 3.2f;
+	public FloatData FallSpeed = 3.2f;
 	public bool CanFall = true;
 	public UnityEvent Event; 
 	public Color furColor;
