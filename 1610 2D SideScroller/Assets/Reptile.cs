@@ -5,8 +5,8 @@ using UnityEngine;
 public class Reptile : Animal
 {
 	public int ScaleCount = 100;
-	public FloatData FallSpeed = 6.7f;
-	public FloatData Armor = 2.0f; 
+	public float FallSpeed = 6.7f;
+	public FloatData armor;  
 	public bool CanFall = true; 
 	public Color scaleColor;
 

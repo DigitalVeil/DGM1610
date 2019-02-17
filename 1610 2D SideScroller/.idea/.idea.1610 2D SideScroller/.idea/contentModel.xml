@@ -9,6 +9,7 @@
       <e p="Assets" t="Include">
         <e p="Animal.cs" t="Include" />
         <e p="Bird.cs" t="Include" />
+        <e p="ColorData.cs" t="Include" />
         <e p="FloatData.cs" t="Include" />
         <e p="Mammal.cs" t="Include" />
         <e p="Reptile.cs" t="Include" />
