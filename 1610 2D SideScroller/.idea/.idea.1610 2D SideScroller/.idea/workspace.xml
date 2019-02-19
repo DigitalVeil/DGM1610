@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e88f3638-c516-4888-9c7c-beff3fcbdce2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610 2D SideScroller/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610 2D SideScroller/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.1610 2D SideScroller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610 2D SideScroller/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animal.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Bird.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Bird.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/FloatData.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/FloatData.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Mammal.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Mammal.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Reptile.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Reptile.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/2D Game ver. Gator.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/2D Game ver. Gator.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/ColorValues/Turtle Shell.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/ColorValues/Turtle Shell.asset" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -20,8 +18,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Animal.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+            <state relative-caret-position="105">
+              <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
               <folding>
                 <marker date="1550372346194" expanded="false" signature="6:78" ph="..." />
                 <marker date="1550372346194" expanded="true" signature="115:416" ph="{...}" />
@@ -36,7 +34,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Mammal.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+              <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
               <folding>
                 <marker date="1550372072449" expanded="false" signature="6:104" ph="..." />
                 <marker date="1550372072449" expanded="true" signature="134:727" ph="{...}" />
@@ -60,14 +58,46 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/ColorData.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="105">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <marker date="1550372670821" expanded="false" signature="6:131" ph="..." />
                 <marker date="1550372670821" expanded="true" signature="193:218" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Level Signifier.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+              <folding>
+                <marker date="1550554403133" expanded="false" signature="6:92" ph="..." />
+                <marker date="1550554403133" expanded="true" signature="138:359" ph="{...}" />
+                <marker date="1550554403133" expanded="true" signature="187:295" ph="{...}" />
+                <marker date="1550554403133" expanded="true" signature="241:291" ph="{...}" />
+                <marker date="1550554403133" expanded="true" signature="350:357" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Score Threshold.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <marker date="1550554508121" expanded="true" signature="6:92" ph="..." />
+                <marker date="1550554508121" expanded="true" signature="138:343" ph="{...}" />
+                <marker date="1550554508121" expanded="true" signature="187:279" ph="{...}" />
+                <marker date="1550554508121" expanded="true" signature="229:272" ph="{...}" />
+                <marker date="1550554508121" expanded="true" signature="334:341" ph="{...}" />
               </folding>
             </state>
           </provider>
@@ -92,7 +122,7 @@
         <entry file="file://$PROJECT_DIR$/Assets/Bird.cs">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="120">
-              <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+              <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
               <folding>
                 <marker date="1550372072355" expanded="false" signature="6:78" ph="..." />
                 <marker date="1550372072355" expanded="true" signature="106:386" ph="{...}" />
@@ -110,7 +140,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Reptile.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Level Signifier.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Animal.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Score Threshold.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Mammal.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Bird.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/FloatData.cs" root0="FORCE_HIGHLIGHTING" />
@@ -126,14 +158,14 @@
         <option value="$PROJECT_DIR$/Assets/Animal.cs" />
         <option value="$PROJECT_DIR$/Assets/Reptile.cs" />
         <option value="$PROJECT_DIR$/Assets/ColorData.cs" />
+        <option value="$PROJECT_DIR$/Assets/Level Signifier.cs" />
+        <option value="$PROJECT_DIR$/Assets/Score Threshold.cs" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1272" />
-    <option name="y" value="842" />
-    <option name="width" value="1085" />
-    <option name="height" value="903" />
+    <option name="width" value="2580" />
+    <option name="height" value="1460" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -141,6 +173,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -154,11 +189,8 @@
         <option name="show-hidden-items" value="false" />
         <option name="show-project-names" value="true" />
       </pane>
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
-      <pane id="AssemblyExplorer" />
       <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -211,11 +243,14 @@
       <workItem from="1550125155541" duration="1019000" />
       <workItem from="1550371276791" duration="992000" />
       <workItem from="1550372308017" duration="1009000" />
+      <workItem from="1550549598725" duration="602000" />
+      <workItem from="1550553930670" duration="52000" />
+      <workItem from="1550554142531" duration="370000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6260000" />
+    <option name="totallyTimeSpent" value="7284000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -227,9 +262,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1272" y="842" width="1085" height="903" extended-state="0" />
+    <frame x="0" y="0" width="2580" height="1460" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36390245" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15357143" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -248,7 +283,7 @@
       <window_info anchor="bottom" id="Database Changes" order="11" />
       <window_info anchor="bottom" id="Unit Tests" order="12" />
       <window_info anchor="bottom" id="Terminal" order="13" />
-      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50074625" side_tool="true" visible="true" weight="0.37142858" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50074625" side_tool="true" weight="0.21552373" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -257,6 +292,35 @@
       <window_info anchor="right" id="Database" order="5" />
       <window_info anchor="right" id="Unit Tests Coverage" order="6" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15357143" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" sideWeight="0.49925372" weight="0.3298731" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" sideWeight="0.50074625" side_tool="true" visible="true" weight="0.21552373" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -275,15 +339,15 @@
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Assets/Birds.cs" />
-    <entry file="file://$PROJECT_DIR$/Assets/Bird.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Animal.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+        <state relative-caret-position="105">
+          <caret line="10" column="33" lean-forward="true" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
           <folding>
-            <marker date="1550372072355" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550372072355" expanded="true" signature="106:386" ph="{...}" />
-            <marker date="1550372072355" expanded="true" signature="315:322" ph="{...}" />
-            <marker date="1550372072355" expanded="true" signature="377:384" ph="{...}" />
+            <marker date="1550372346194" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550372346194" expanded="true" signature="115:416" ph="{...}" />
+            <marker date="1550372346194" expanded="true" signature="345:352" ph="{...}" />
+            <marker date="1550372346194" expanded="true" signature="407:414" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -291,7 +355,7 @@
     <entry file="file://$PROJECT_DIR$/Assets/Mammal.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+          <caret line="13" column="28" lean-forward="true" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
           <folding>
             <marker date="1550372072449" expanded="false" signature="6:104" ph="..." />
             <marker date="1550372072449" expanded="true" signature="134:727" ph="{...}" />
@@ -301,15 +365,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Animal.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Bird.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
-          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
+          <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           <folding>
-            <marker date="1550372346194" expanded="false" signature="6:78" ph="..." />
-            <marker date="1550372346194" expanded="true" signature="115:416" ph="{...}" />
-            <marker date="1550372346194" expanded="true" signature="345:352" ph="{...}" />
-            <marker date="1550372346194" expanded="true" signature="407:414" ph="{...}" />
+            <marker date="1550372072355" expanded="false" signature="6:78" ph="..." />
+            <marker date="1550372072355" expanded="true" signature="106:386" ph="{...}" />
+            <marker date="1550372072355" expanded="true" signature="315:322" ph="{...}" />
+            <marker date="1550372072355" expanded="true" signature="377:384" ph="{...}" />
           </folding>
         </state>
       </provider>
@@ -327,6 +391,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ColorData.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <marker date="1550372670821" expanded="false" signature="6:131" ph="..." />
+            <marker date="1550372670821" expanded="true" signature="193:218" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/FloatData.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
@@ -338,13 +413,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/ColorData.cs">
+    <entry file="file://$PROJECT_DIR$/Assets/Level Signifier.cs">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="285">
+          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
           <folding>
-            <marker date="1550372670821" expanded="false" signature="6:131" ph="..." />
-            <marker date="1550372670821" expanded="true" signature="193:218" ph="{...}" />
+            <marker date="1550554403133" expanded="false" signature="6:92" ph="..." />
+            <marker date="1550554403133" expanded="true" signature="138:359" ph="{...}" />
+            <marker date="1550554403133" expanded="true" signature="187:295" ph="{...}" />
+            <marker date="1550554403133" expanded="true" signature="241:291" ph="{...}" />
+            <marker date="1550554403133" expanded="true" signature="350:357" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Score Threshold.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1550554508121" expanded="true" signature="6:92" ph="..." />
+            <marker date="1550554508121" expanded="true" signature="138:343" ph="{...}" />
+            <marker date="1550554508121" expanded="true" signature="187:279" ph="{...}" />
+            <marker date="1550554508121" expanded="true" signature="229:272" ph="{...}" />
+            <marker date="1550554508121" expanded="true" signature="334:341" ph="{...}" />
           </folding>
         </state>
       </provider>

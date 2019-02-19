@@ -224,13 +224,15 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   name: 
-  Health: 0
-  Speed: 0
-  CanMove: 0
+  health: {fileID: 0}
+  speed: {fileID: 0}
+  enemyHealth: {fileID: 0}
+  canMove: 0
   skinColor: {r: 0.12896049, g: 0.4339623, b: 0.13511607, a: 0.5882353}
   eyeColor: {r: 0, g: 0, b: 0, a: 0}
   ScaleCount: 100
   FallSpeed: 0
+  armor: {fileID: 0}
   CanFall: 1
   scaleColor: {r: 0, g: 0, b: 0, a: 0}
   teethFangColor: {r: 0, g: 0, b: 0, a: 0}
@@ -246,9 +248,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   name: 
-  Health: 10
-  Speed: 6.5
-  CanMove: 1
+  health: {fileID: 0}
+  speed: {fileID: 0}
+  enemyHealth: {fileID: 0}
+  canMove: 0
   skinColor: {r: 0, g: 0, b: 0, a: 0}
   eyeColor: {r: 0, g: 0, b: 0, a: 0}
 --- !u!212 &940744374

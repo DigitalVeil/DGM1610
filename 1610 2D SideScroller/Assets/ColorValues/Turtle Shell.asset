@@ -11,4 +11,4 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 562791e801570c147bae328a14c268c2, type: 3}
   m_Name: Turtle Shell
   m_EditorClassIdentifier: 
-  value: {r: 0, g: 0, b: 0, a: 0}
+  value: {r: 0.21960784, g: 0.2509804, b: 0.003921569, a: 1}
