@@ -12,6 +12,7 @@
           <e p="Bird.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
+          <e p="JumpCharacter.cs" t="Include" />
           <e p="Level Signifier.cs" t="Include" />
           <e p="Mammal.cs" t="Include" />
           <e p="MonoEvents.cs" t="Include" />
