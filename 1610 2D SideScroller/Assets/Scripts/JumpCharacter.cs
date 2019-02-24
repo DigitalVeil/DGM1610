@@ -21,8 +21,9 @@ public class JumpCharacter : MonoBehaviour
 		if (Input.GetKey(KeyCode.Space))
 		{
 			print("we jumped!");
+			position.y = JumpValue;
 		}
-		position.y = Gravity * Time.deltaTime;
+		position.y -= Gravity * Time.deltaTime;
 		controller.Move(position);
 	}
 }
