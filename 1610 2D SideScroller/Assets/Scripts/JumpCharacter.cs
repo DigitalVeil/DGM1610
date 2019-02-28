@@ -7,10 +7,12 @@ public class JumpCharacter : MonoBehaviour
 
 	private CharacterController controller;
 	private Vector2 position;
+	private float JumpStart; 
+	public float MoveSpeed = 5;
 	public float Gravity = -9.81f;
 	public float JumpValue = 50;
 	public float JumpCount = 2;
-	private float JumpStart; 
+	
 	// Use this for initialization
 	void Start ()
 	{
@@ -21,7 +23,9 @@ public class JumpCharacter : MonoBehaviour
 	// Update is called once per frame
 	void Update ()
 	{
-		if (JumpCount > 1 && Input.GetKey(KeyCode.Space))
+		position.x = Input.GetAxis("Horizontal") * MoveSpeed * Time.deltaTime;
+		
+		if (JumpCount > 1 && Input.GetKeyDown(KeyCode.Space))
 		{
 			print("we jumped!");
 			JumpCount--;
@@ -29,7 +33,7 @@ public class JumpCharacter : MonoBehaviour
 		}
 
 		if (controller.isGrounded)
-		{
+		{	
 			JumpCount = JumpStart; 
 		}
 		position.y -= Gravity * Time.deltaTime;
