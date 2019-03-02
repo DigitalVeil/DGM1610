@@ -8,6 +8,7 @@ public class JumpCharacter : MonoBehaviour
 	private CharacterController controller;
 	private Vector2 position;
 	private float JumpStart; 
+	
 	public float MoveSpeed = 5;
 	public float Gravity = -9.81f;
 	public float JumpValue = 50;
