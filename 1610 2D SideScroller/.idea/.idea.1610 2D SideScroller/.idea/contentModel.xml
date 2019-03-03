@@ -11,6 +11,7 @@
           <e p="Animal.cs" t="Include" />
           <e p="Bird.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
+          <e p="Conditionals.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="ForceMoveType.cs" t="Include" />
           <e p="JumpCharacter.cs" t="Include" />
