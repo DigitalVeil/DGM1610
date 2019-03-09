@@ -26,6 +26,7 @@
           <e p="PowerUpDrain.cs" t="Include" />
           <e p="Reptile.cs" t="Include" />
           <e p="Score Threshold.cs" t="Include" />
+          <e p="Turtle.cs" t="Include" />
         </e>
       </e>
       <e p="Library" t="ExcludeRecursive" />
