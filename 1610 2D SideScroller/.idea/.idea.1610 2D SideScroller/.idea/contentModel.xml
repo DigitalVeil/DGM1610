@@ -10,11 +10,13 @@
         <e p="Scripts" t="Include">
           <e p="Animal.cs" t="Include" />
           <e p="Bird.cs" t="Include" />
+          <e p="Collection.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
           <e p="Conditionals.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FlyingSquirrel.cs" t="Include" />
           <e p="ForceMoveType.cs" t="Include" />
+          <e p="FuncParams.cs" t="Include" />
           <e p="JumpCharacter.cs" t="Include" />
           <e p="JumpMoveType.cs" t="Include" />
           <e p="Level Signifier.cs" t="Include" />
