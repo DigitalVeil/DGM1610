@@ -13,7 +13,7 @@ public class FlyingSquirrel : Mammal {
 		
 		GetComponent<SpriteRenderer>().color = skinColor;
 
-		GetComponent<SpriteRenderer>().color = furColor
+		GetComponent<SpriteRenderer>().color = furColor;
 
 		GetComponent<SpriteRenderer>().color = eyeColor;
 		
