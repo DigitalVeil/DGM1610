@@ -13,11 +13,13 @@
           <e p="Collection.cs" t="Include" />
           <e p="ColorData.cs" t="Include" />
           <e p="Conditionals.cs" t="Include" />
+          <e p="Counter.cs" t="Include" />
           <e p="EnemyAI.cs" t="Include" />
           <e p="FlipCharacter.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FlyingSquirrel.cs" t="Include" />
           <e p="ForceMoveType.cs" t="Include" />
+          <e p="Forces.cs" t="Include" />
           <e p="FuncParams.cs" t="Include" />
           <e p="JumpCharacter.cs" t="Include" />
           <e p="JumpMoveType.cs" t="Include" />

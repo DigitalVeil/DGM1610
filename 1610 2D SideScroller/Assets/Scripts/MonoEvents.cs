@@ -8,8 +8,9 @@ public class MonoEvents : MonoBehaviour
 
 	public UnityEvent startEvent;
 	public UnityEvent enableEvent;
-	public UnityEvent mouseDownEvent;
-	public UnityEvent updateEvent; 
+	public UnityEvent triggerEnterEvent;
+	public UnityEvent updateEvent;
+	public UnityEvent collisionEnterEvent;
 	void Start () {
 		startEvent.Invoke();
 	}
@@ -18,10 +19,17 @@ public class MonoEvents : MonoBehaviour
 	{
 		enableEvent.Invoke();
 	}
-	private void OnMouseDown()
+
+	private void OnTriggerEnter(Collider other)
 	{
-		mouseDownEvent.Invoke();
+		triggerEnterEvent.Invoke();
 	}
+
+	private void OnCollisionEnter(Collision other)
+	{
+		collisionEnterEvent.Invoke();
+	}
+
 	void Update () {
 		updateEvent.Invoke();
 	}
