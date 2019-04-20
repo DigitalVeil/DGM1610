@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e88f3638-c516-4888-9c7c-beff3fcbdce2" name="Default Changelist" comment="" />
+    <list default="true" id="e88f3638-c516-4888-9c7c-beff3fcbdce2" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.1610 2D SideScroller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.1610 2D SideScroller/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Gator.controller" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Gator.controller" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,7 +32,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Assets/Scripts/Switches.cs">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
+            <state relative-caret-position="225">
               <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
               <folding>
                 <marker date="1555363631894" expanded="false" signature="6:118" ph="..." />
@@ -253,6 +256,9 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
       <pane id="UnityExplorer">
         <subPane>
           <expand>
@@ -272,9 +278,6 @@
         <option name="show-project-names" value="true" />
       </pane>
       <pane id="FileSystemExplorer" />
-      <pane id="SolutionExplorer">
-        <option name="show-all-files" value="false" />
-      </pane>
       <pane id="AssemblyExplorer" />
     </panes>
   </component>
@@ -349,12 +352,13 @@
       <workItem from="1555212642257" duration="648000" />
       <workItem from="1555295535629" duration="848000" />
       <workItem from="1555360665287" duration="1725000" />
-      <workItem from="1555647214435" duration="239000" />
+      <workItem from="1555647214435" duration="476000" />
+      <workItem from="1555738870363" duration="601000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="32899000" />
+    <option name="totallyTimeSpent" value="33654000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -366,10 +370,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1244" y="244" width="1074" height="1084" extended-state="1" />
-    <editor active="true" />
+    <frame x="1244" y="244" width="1074" height="1084" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23175542" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2366864" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Capture Tool" order="3" />
@@ -636,6 +639,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Switches.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
+          <folding>
+            <marker date="1555363631894" expanded="false" signature="6:118" ph="..." />
+            <marker date="1555363631894" expanded="true" signature="157:928" ph="{...}" />
+            <marker date="1555363631894" expanded="true" signature="263:340" ph="{...}" />
+            <marker date="1555363631894" expanded="true" signature="396:926" ph="{...}" />
+            <marker date="1555363631894" expanded="true" signature="432:920" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Assets/Scripts/Collection.cs">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
@@ -737,20 +754,6 @@
             <marker date="1554087283871" expanded="true" signature="205:265" ph="{...}" />
             <marker date="1554087283871" expanded="true" signature="309:338" ph="{...}" />
             <marker date="1554087283871" expanded="true" signature="383:416" ph="{...}" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Switches.cs">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="22" column="5" selection-start-line="22" selection-start-column="5" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <marker date="1555363631894" expanded="false" signature="6:118" ph="..." />
-            <marker date="1555363631894" expanded="true" signature="157:928" ph="{...}" />
-            <marker date="1555363631894" expanded="true" signature="263:340" ph="{...}" />
-            <marker date="1555363631894" expanded="true" signature="396:926" ph="{...}" />
-            <marker date="1555363631894" expanded="true" signature="432:920" ph="{...}" />
           </folding>
         </state>
       </provider>
