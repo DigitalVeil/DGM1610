@@ -2,5 +2,5 @@
 
 public abstract class MoveTypeBase :ScriptableObject
 {
-    public abstract Vector2 Move(CharacterController controller, Vector2 position);
+    public abstract Vector3 Move(CharacterController controller, Vector3 position);
 }

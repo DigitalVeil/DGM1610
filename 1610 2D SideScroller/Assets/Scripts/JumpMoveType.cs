@@ -9,7 +9,7 @@ public class JumpMoveType : MoveTypeBase {
     public float JumpValue = 50;
     public float JumpCount = 2;
     
-    public override Vector2 Move(CharacterController controller, Vector2 position)
+    public override Vector3 Move(CharacterController controller, Vector3 position)
     {    
         if (JumpCount > 1 && Input.GetKeyDown(KeyCode.Space))
         {

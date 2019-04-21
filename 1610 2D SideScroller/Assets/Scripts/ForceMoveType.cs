@@ -5,7 +5,7 @@ using UnityEngine;
 public class ForceMoveType : MoveTypeBase {
 	
 	public float ForceValue = 1;
-	public override Vector2 Move(CharacterController controller, Vector2 position)
+	public override Vector3 Move(CharacterController controller, Vector3 position)
 	{
 		position.y += ForceValue; 
 		return position; 
