@@ -30,7 +30,16 @@ private void Update()
 void DetectMovement()
 {
     otterBody.velocity = new Vector3(
-        
-}    
+        Input.GetAxisRaw(Axis.HorizontalAxis) * -walkSpeed,
+        otterBody.velocity.y,
+        Input.GetAxisRaw(Axis.VerticalAxis));
+}
 
+void RotatePlayer()
+{
+    if (Input.GetAxisRaw(Axis.HorizontalAxis) > 0)
+    {
+        transform.rotation = 
+    }
+}
 }

@@ -6007,6 +6007,7 @@ GameObject:
   - component: {fileID: 940744376}
   - component: {fileID: 940744373}
   - component: {fileID: 940744378}
+  - component: {fileID: 940744379}
   m_Layer: 0
   m_Name: Gator Version 1
   m_TagString: Untagged
@@ -6183,6 +6184,19 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Speed: 0
+--- !u!114 &940744379
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 940744371}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c52675fff10c133488cb61d51dc8a100, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Player: {fileID: 0}
 --- !u!1 &1206698027
 GameObject:
   m_ObjectHideFlags: 0
@@ -6536,6 +6550,7 @@ GameObject:
   - component: {fileID: 1633114229}
   - component: {fileID: 1633114231}
   - component: {fileID: 1633114230}
+  - component: {fileID: 1633114232}
   m_Layer: 0
   m_Name: Otter Prep Digital
   m_TagString: Untagged
@@ -6621,6 +6636,7 @@ MonoBehaviour:
   MovementOptions:
   - {fileID: 11400000, guid: 1a48ee982dfc71e4b845b1328feb90d7, type: 2}
   - {fileID: 11400000, guid: e7094274ad7f0c546af19c35aa0488a4, type: 2}
+  walkSpeed: 2
 --- !u!143 &1633114228
 CharacterController:
   m_ObjectHideFlags: 0
@@ -6725,6 +6741,20 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 22.42, y: 18.55, z: 0.2}
   m_Center: {x: 0, y: 0, z: 0}
+--- !u!114 &1633114232
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1633114224}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 17e9e6c7efab22e45a73472afd8cd26b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  MovementOptions: []
+  walkSpeed: 2
 --- !u!1 &1635917668
 GameObject:
   m_ObjectHideFlags: 0
