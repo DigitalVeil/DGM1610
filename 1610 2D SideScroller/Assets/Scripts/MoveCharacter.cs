@@ -35,11 +35,16 @@ void DetectMovement()
         Input.GetAxisRaw(Axis.VerticalAxis));
 }
 
+private void FixedUpdate()
+{
+    DetectMovement();
+}
+
 void RotatePlayer()
 {
     if (Input.GetAxisRaw(Axis.HorizontalAxis) > 0)
     {
-        transform.rotation = 
-    }
+        transform.Rotate(0, 180, 0);
+    } 
 }
 }
