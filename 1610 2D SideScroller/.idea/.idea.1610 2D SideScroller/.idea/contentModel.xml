@@ -21,6 +21,7 @@
           <e p="ForceMoveType.cs" t="Include" />
           <e p="Forces.cs" t="Include" />
           <e p="FuncParams.cs" t="Include" />
+          <e p="HealthInfo.cs" t="Include" />
           <e p="JumpCharacter.cs" t="Include" />
           <e p="JumpMoveType.cs" t="Include" />
           <e p="Level Signifier.cs" t="Include" />
