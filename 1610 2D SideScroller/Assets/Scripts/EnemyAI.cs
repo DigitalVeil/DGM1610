@@ -5,18 +5,23 @@ using UnityEngine.AI;
 
 public class EnemyAI : MonoBehaviour
 {
-    public Transform Player; 
-    private NavMeshAgent agent;
-    // Start is called before the first frame update
-    void Start()
-    {
-        agent = GetComponent<NavMeshAgent>();
-    }
+   public int health = 100;
+   public GameObject deathEffect;
 
-    // Update is called once per frame
-    void Update()
-    {
-        agent.destination = Player.position; 
-    }
 
+   public void DamageTaken(int damage)
+   {
+      health -= damage;
+
+      if (health <= 0)
+      {
+         Death();
+      }
+   }
+
+   void Death()
+   {
+      Instantiate(deathEffect, transform.position, Quaternion.identity);
+      Destroy(gameObject);
+   }
 }
