@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
-    <e p="C:\Users\Tim\.Rider2018.3\system\extResources" t="IncludeRecursive" />
-    <e p="C:\Users\Tim\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_1610 2D SideScroller.1417622514.00" t="ExcludeRecursive" />
-    <e p="D:\GitKraken\DGM1610\1610 2D SideScroller" t="IncludeRecursive">
+    <e p="C:\Users\Dork Tim\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Dork Tim\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_1610 2D SideScroller.-1194239158.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Dork Tim\Desktop\DGM1600\DGM1600-1-master\DGM1600-1-master\DGM1600-1\DGM1600\DGM1610\DGM1610\1610 2D SideScroller" t="IncludeRecursive">
       <e p="1610 2D SideScroller.sln" t="IncludeFlat" />
       <e p="Assembly-CSharp-Editor.csproj" t="IncludeRecursive" />
       <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
@@ -144,13 +144,16 @@
           <e p="ColorData.cs" t="Include" />
           <e p="Conditionals.cs" t="Include" />
           <e p="Counter.cs" t="Include" />
+          <e p="DestroyObJ.cs" t="Include" />
           <e p="EnemyAI.cs" t="Include" />
+          <e p="EnemyController.cs" t="Include" />
           <e p="FlipCharacter.cs" t="Include" />
           <e p="FloatData.cs" t="Include" />
           <e p="FlyingSquirrel.cs" t="Include" />
           <e p="ForceMoveType.cs" t="Include" />
           <e p="Forces.cs" t="Include" />
           <e p="FuncParams.cs" t="Include" />
+          <e p="HealthDrop.cs" t="Include" />
           <e p="HealthInfo.cs" t="Include" />
           <e p="JumpCharacter.cs" t="Include" />
           <e p="JumpMoveType.cs" t="Include" />
@@ -160,6 +163,7 @@
           <e p="MoveCharacter.cs" t="Include" />
           <e p="MoveTypeBase.cs" t="Include" />
           <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerHP.cs" t="Include" />
           <e p="PowerUpBase.cs" t="Include" />
           <e p="PowerUpDrain.cs" t="Include" />
           <e p="Reptile.cs" t="Include" />
