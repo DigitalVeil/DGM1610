@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Tim\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Tim\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_2D Game Final.-1521971936.00" t="ExcludeRecursive" />
+    <e p="D:\GitKraken\DGM1610\2D Game Final\2D Game Final" t="IncludeRecursive">
+      <e p="2D Game Final.sln" t="IncludeFlat" />
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="camFollowPlayer.cs" t="Include" />
+          <e p="ClearObj.cs" t="Include" />
+          <e p="EnemyController.cs" t="Include" />
+          <e p="EnemyDamage.cs" t="Include" />
+          <e p="EnemyHP.cs" t="Include" />
+          <e p="ExitGame.cs" t="Include" />
+          <e p="HealthDrop.cs" t="Include" />
+          <e p="NewGame.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="PlayerHP.cs" t="Include" />
+          <e p="PoisonDrop.cs" t="Include" />
+          <e p="ShootVenom.cs" t="Include" />
+          <e p="ThrowController.cs" t="Include" />
+          <e p="ThrowHit.cs" t="Include" />
+          <e p="VenomController.cs" t="Include" />
+          <e p="winSpawn.cs" t="Include" />
+          <e p="youWin.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

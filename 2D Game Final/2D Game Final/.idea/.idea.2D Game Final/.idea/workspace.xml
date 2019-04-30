@@ -1,0 +1,1351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1bde699b-222c-4ffa-8df2-4bd0ea181331" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/Logs/Packages-Update.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/2D Game Final.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/2D Game Final.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Sprites/BG 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Sprites/BG Assets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Sprites/BG Assets.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Sprites/Otter.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.2D Game Final/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.2D Game Final/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.2D Game Final/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.2D Game Final/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.2D Game Final/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.2D Game Final/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.2D Game Final/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.idea.2D Game Final/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/gameOverAnim.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/gameOverText.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/gameOverText.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/gameStart.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/gameStart.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/gator.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/gator.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/gatorChase.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/gatorChase.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/gatorIdle.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/gatorIdle.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/otterFall.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/otterFall.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/otterIdle.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/otterIdle.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/otterJump.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/otterJump.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/otterLand.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/otterLand.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/player.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/player.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/snake.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/snake.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/snakeIdle.anim" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/snakeIdle.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Animaton/snakeShot.anim.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/noSlip.physicsMaterial2D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/noSlip.physicsMaterial2D.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/rockDebris.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/rockDebris.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/starEffect.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Materials/starEffect.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/AggroGator.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/AggroGator.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/BG Assets_0.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/BG Assets_0.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/BG Assets_1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/BG Assets_1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/BG Assets_2.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/BG Assets_2.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/BG Assets_3.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/BG Assets_3.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/EnemyUI.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/EnemyUI.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/GameWin.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/GameWin.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Ground.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Ground.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Health Drop.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Health Drop.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Hedgehog.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Hedgehog.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/HitEffect.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/HitEffect.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Poison Heart.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Poison Heart.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Snake1.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Snake1.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SnakeAggro.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/SnakeAggro.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Snakeshot.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Snakeshot.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Stars.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Stars.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Thrown Object.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/Thrown Object.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/WinStar.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Prefabs/WinStar.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ClearObj.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyDamage.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyHP.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HealthDrop.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/HealthDrop.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/NewGame.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/NewGame.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHP.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PlayerHP.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PoisonDrop.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/PoisonDrop.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ShootVenom.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ShootVenom.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ThrowController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ThrowController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ThrowHit.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/ThrowHit.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/VenomController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/VenomController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/camFollowPlayer.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/camFollowPlayer.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/winSpawn.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/winSpawn.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/youWin.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/youWin.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BG Assets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BG Assets.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BG.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/BG.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Empty Heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Empty Heart.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Filled Heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Filled Heart.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Gator Version 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Gator Version 1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Ground.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Hedgehog.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Hedgehog.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Otter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Otter.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Poison Heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Poison Heart.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Rock.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Snake1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Snake1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Snake2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Snake2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Snakeshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Snakeshot.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Star.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Sprites/Star.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/Packages-Update.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/.idea/.idea.New Unity Project/.idea/contentModel.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/.idea/.idea.New Unity Project/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/.idea/.idea.New Unity Project/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/.idea/.idea.New Unity Project/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/.idea/.idea.New Unity Project/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/.idea/.idea.New Unity Project/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/.idea/.idea.New Unity Project/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/.idea/.idea.New Unity Project/riderModule.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/2D Game Extra Final.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/2D Game Extra Final.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/2D Game Final.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/2D Game Final.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/2D Game ver. Gator.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/2D Game ver. Gator.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/2D Game.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/2D Game.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Earth Brown.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Earth Brown.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Forest Green.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Forest Green.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Gator Green.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Gator Green.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Otter Brown.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Otter Brown.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Otter Fur.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Otter Fur.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Sky Blue.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Sky Blue.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Summer Cloud.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Summer Cloud.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Turtle Shell.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/ColorValues/Turtle Shell.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/Armor.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/Armor.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/DoubleJump.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/DoubleJump.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/FallSpeed.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/FallSpeed.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/GameTime.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/GameTime.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/Gravity.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/Gravity.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/Health.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/Health.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/OtterCoins.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/OtterCoins.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/Score.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/Score.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/Speed.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/Speed.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/enemyHealth.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/GameValues/enemyHealth.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Gator.controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Gator.controller.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Materials.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Materials/Green.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Materials/Green.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Physics.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Physics/New Physic Material.physicMaterial" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Physics/New Physic Material.physicMaterial.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Physics/PlayerSkin.physicsMaterial2D" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Physics/PlayerSkin.physicsMaterial2D.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Plugins.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Plugins/Editor.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Plugins/Editor/JetBrains.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Power Ups.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Power Ups/Burrow.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Power Ups/Burrow.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Power Ups/DoubleJump.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Power Ups/DoubleJump.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Prefabs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Prefabs/BurrowPower.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Prefabs/BurrowPower.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Prefabs/DeathStars.mat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Prefabs/DeathStars.mat.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Prefabs/Ground.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Prefabs/Ground.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Prefabs/Rock.prefab" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Prefabs/Rock.prefab.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scenes.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Animal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Animal.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Bird.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Bird.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Collection.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Collection.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/ColorData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/ColorData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Conditionals.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Conditionals.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Counter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Counter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/DestroyObJ.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/DestroyObJ.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/EnemyAI.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/EnemyAI.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/EnemyController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/EnemyController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/FlipCharacter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/FlipCharacter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/FloatData.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/FloatData.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/FlyingSquirrel.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/FlyingSquirrel.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/ForceMoveType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/ForceMoveType.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Forces.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Forces.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/FuncParams.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/FuncParams.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/HealthDrop.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/HealthDrop.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/HealthInfo.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/HealthInfo.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/JumpCharacter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/JumpCharacter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/JumpMoveType.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/JumpMoveType.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Level Signifier.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Level Signifier.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Mammal.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Mammal.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/MonoEvents.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/MonoEvents.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/MoveCharacter.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/MoveCharacter.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/MoveTypeBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/MoveTypeBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/PlayerController.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/PlayerController.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/PowerUpBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/PowerUpBase.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/PowerUpDrain.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/PowerUpDrain.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Reptile.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Reptile.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Rock.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Rock.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/RunAnims.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/RunAnims.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Score Threshold.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Score Threshold.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Switches.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Switches.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/ThrowRock.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/ThrowRock.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Turtle.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/Turtle.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/playerController1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Scripts/playerController1.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/SpriteMods.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/BG 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/BG 1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/BG Assets.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/BG Assets.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Background.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Background.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Diamond.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Diamond.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Empty Heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Empty Heart.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Filled Heart.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Filled Heart.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Gator Prep Digital.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Gator Prep Digital.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Gator Prep.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Gator Prep.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Gator Version 1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Gator Version 1.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Ground.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Ground.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Otter Prep Digital.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Otter Prep Digital.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Otter Prep.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Otter Prep.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Otter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Otter.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/PowerUp.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/PowerUp.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Rock.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Rock.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Snake1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Snake2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Snake2.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Snakeshot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Snakeshot.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Triangle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Triangle.png.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Tile Palette.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Tile Palette/New Tile.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Assets/Tile Palette/New Tile.asset.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Logs/Packages-Update.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/Packages/manifest.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/AudioManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/ClusterInputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/DynamicsManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/GraphicsSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/InputManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/NavMeshAreas.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/NetworkManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/Physics2DSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/PresetManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/ProjectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/ProjectVersion.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/TimeManager.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/UnityConnectSettings.asset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../2D Game/ProjectSettings/VFXManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/.idea/.idea.1610 2D SideScroller/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/.idea/.idea.1610 2D SideScroller/.idea/contentModel.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/.idea/.idea.1610 2D SideScroller/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/.idea/.idea.1610 2D SideScroller/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/Assets/Scenes.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animaton.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineBasicMultiChannelPerlinEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyHP.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineBlendListCameraEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineBlendListCameraEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/ClearObj.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineBlenderSettingsEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineBlenderSettingsEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyController.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineBrainEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineBrainEditor.cs.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/EnemyDamage.cs.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineClearShotEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineClearShotEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineColliderEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineColliderEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineComposerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineComposerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineConfinerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineConfinerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineExternalCameraEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineExternalCameraEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineFramingTransposerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineFramingTransposerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineFreeLookEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineFreeLookEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineGroupComposerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineGroupComposerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLockToTargetEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLockToTargetEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLookAtEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineHardLookAtEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineMixingCameraEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineMixingCameraEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineOrbitalTransposerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineOrbitalTransposerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachinePOVEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachinePOVEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachinePathEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachinePathEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineScreenComposerGuides.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineScreenComposerGuides.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineSmoothPathEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineSmoothPathEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineStateDrivenCameraEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineStateDrivenCameraEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineTargetGroupEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineTargetGroupEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineTrackedDollyEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineTrackedDollyEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineTransposerEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineTransposerEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraBaseEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Editors/CinemachineVirtualCameraEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Menus.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Menus/CinemachineMenu.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Menus/CinemachineMenu.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/PropertyDrawers.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineBlendDefinitionPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/PropertyDrawers/CinemachineTagFieldPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/PropertyDrawers/GetSetDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/PropertyDrawers/GetSetDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/PropertyDrawers/LensSettingsPropertyDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/PropertyDrawers/LensSettingsPropertyDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/PropertyDrawers/MinDrawer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/PropertyDrawers/MinDrawer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Resources/Cinemachine_header.tif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Resources/Cinemachine_header.tif.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Sprites/Snake2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Resources/cm_logo_sm.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Resources/cm_logo_sm.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../2D Game/Assets/Sprites/Snake1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Utility.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Utility/BaseEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Utility/BaseEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Utility/EmbeddedAssetHelpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Utility/EmbeddedAssetHelpers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Utility/SaveDuringPlay.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Utility/SaveDuringPlay.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Utility/ScriptableObjectUtility.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Utility/ScriptableObjectUtility.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Utility/SerializedPropertyHelper.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Utility/SerializedPropertyHelper.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Windows.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Windows/AboutWindow.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Windows/AboutWindow.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Windows/CinemachineColliderPrefs.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Windows/CinemachineColliderPrefs.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Windows/CinemachineSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Editor/Windows/CinemachineSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBlendListCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBlendListCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBrain.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineBrain.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineClearShot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineClearShot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineCollider.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineCollider.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineConfiner.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineConfiner.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineDollyCart.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineDollyCart.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineExternalCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineExternalCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFollowZoom.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFollowZoom.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFreeLook.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineFreeLook.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineMixingCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineMixingCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePath.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePath.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePipeline.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachinePipeline.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoothPath.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoothPath.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoother.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineSmoother.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineStateDrivenCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineStateDrivenCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineTargetGroup.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineTargetGroup.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineVirtualCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Behaviours/CinemachineVirtualCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineBasicMultiChannelPerlin.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineComposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineComposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineFramingTransposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineFramingTransposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineGroupComposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineGroupComposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLockToTarget.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLockToTarget.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLookAt.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineHardLookAt.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineOrbitalTransposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineOrbitalTransposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachinePOV.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachinePOV.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineSameAsFollowObject.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineSameAsFollowObject.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineTrackedDolly.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineTrackedDolly.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineTransposer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Components/CinemachineTransposer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/AxisState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/AxisState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CameraState.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CameraState.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineBlend.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineBlend.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineBlenderSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineBlenderSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineComponentBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineComponentBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineCore.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineCore.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineDebugLogger.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineDebugLogger.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineExtension.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineExtension.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachinePathBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachinePathBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachinePropertyAttribute.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachinePropertyAttribute.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineVirtualCameraBase.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/CinemachineVirtualCameraBase.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/GaussianFilter.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/GaussianFilter.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/ICinemachineCamera.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/ICinemachineCamera.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/ICinemachineComponent.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/ICinemachineComponent.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/LensSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/LensSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/NoiseSettings.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/NoiseSettings.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/Predictor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/Predictor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/ReflectionHelpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/ReflectionHelpers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/SplineHelpers.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/SplineHelpers.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/UnityVectorExtensions.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Base/Runtime/Core/UnityVectorExtensions.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/CINEMACHINE_install.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/CINEMACHINE_install.pdf.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/CinemachineAPI.chm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/CinemachineAPI.chm.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/CinemachineExamples.unitypackage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/CinemachineExamples.unitypackage.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/2D Game/Assets/Scenes/SampleScene.unity.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Gizmos.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Plugins.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Gizmos/Cinemachine.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Gizmos/Cinemachine/cm_logo_lg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Gizmos/Cinemachine/cm_logo_lg.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Sprites/BG 1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/LICENSE" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/LICENSE.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Materials.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/CinemachinePostFX.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/CinemachinePostFX.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/CinemachinePostProcessing.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/CinemachinePostProcessing.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/Editor/CinemachinePostProcessingEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/Editor/PostFXAutoImport.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/Editor/PostFXAutoImport.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/Editor/Resources.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/Editor/Resources/PostProcessLayer.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/PostFX/Editor/Resources/PostProcessLayer.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Sprites/Snakeshot.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_normal_extreme.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_normal_extreme.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_normal_mild.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_normal_mild.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_normal_strong.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_normal_strong.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_tele_mild.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_tele_mild.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_tele_strong.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_tele_strong.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_wideangle_mild.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_wideangle_mild.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_wideangle_strong.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Handheld_wideangle_strong.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Vibration.asset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Presets/Noise/Vibration.asset.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/ReleaseNotes.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/ReleaseNotes.txt.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline/CinemachineMixer.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline/CinemachineMixer.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline/CinemachineShot.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline/CinemachineShot.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline/CinemachineTrack.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline/CinemachineTrack.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline/Editor.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline/Editor/CinemachineShotEditor.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline/Editor/CinemachineShotEditor.cs.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline/LegacyTimelineAPI.unitypackage" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Cinemachine/Timeline/LegacyTimelineAPI.unitypackage.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Gizmos.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Gizmos/Cinemachine.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Gizmos/Cinemachine/cm_logo_lg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Gizmos/Cinemachine/cm_logo_lg.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Sprites/Snake1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" beforeDir="false" afterPath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Plugins/Editor/JetBrains/JetBrains.Rider.Unity.Editor.Plugin.Repacked.dll" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Scripts/New Animation.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animaton/snakeShot.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../1610 2D SideScroller/Assets/Scripts/New Animation.anim.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animaton/gameOverAnim.anim.meta" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/VenomController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+              <folding>
+                <marker date="1556603464831" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556603464831" expanded="true" signature="124:582" ph="{...}" />
+                <marker date="1556603464831" expanded="true" signature="207:492" ph="{...}" />
+                <marker date="1556603464831" expanded="true" signature="523:580" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyHP.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+              <folding>
+                <marker date="1556589232798" expanded="false" signature="6:100" ph="..." />
+                <marker date="1556589232798" expanded="true" signature="138:897" ph="{...}" />
+                <marker date="1556589232798" expanded="true" signature="337:451" ph="{...}" />
+                <marker date="1556589232798" expanded="true" signature="470:478" ph="{...}" />
+                <marker date="1556589232798" expanded="true" signature="524:682" ph="{...}" />
+                <marker date="1556589232798" expanded="true" signature="705:895" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthDrop.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="360">
+              <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+              <folding>
+                <marker date="1556600433443" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556600433443" expanded="true" signature="119:503" ph="{...}" />
+                <marker date="1556600433443" expanded="true" signature="172:193" ph="{...}" />
+                <marker date="1556600433443" expanded="true" signature="216:237" ph="{...}" />
+                <marker date="1556600433443" expanded="true" signature="282:501" ph="{...}" />
+                <marker date="1556600433443" expanded="true" signature="323:495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHP.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="686">
+              <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+              <folding>
+                <marker date="1556610853081" expanded="false" signature="6:100" ph="..." />
+                <marker date="1556610853081" expanded="true" signature="139:1541" ph="{...}" />
+                <marker date="1556610853081" expanded="true" signature="408:579" ph="{...}" />
+                <marker date="1556610853081" expanded="true" signature="598:617" ph="{...}" />
+                <marker date="1556610853081" expanded="true" signature="661:846" ph="{...}" />
+                <marker date="1556610853081" expanded="true" signature="794:840" ph="{...}" />
+                <marker date="1556610853081" expanded="true" signature="894:1027" ph="{...}" />
+                <marker date="1556610853081" expanded="true" signature="1056:1326" ph="{...}" />
+                <marker date="1556610853081" expanded="true" signature="1353:1539" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/youWin.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+              <folding>
+                <marker date="1556609664035" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556609664035" expanded="true" signature="115:507" ph="{...}" />
+                <marker date="1556609664035" expanded="true" signature="187:208" ph="{...}" />
+                <marker date="1556609664035" expanded="true" signature="266:287" ph="{...}" />
+                <marker date="1556609664035" expanded="true" signature="332:505" ph="{...}" />
+                <marker date="1556609664035" expanded="true" signature="373:499" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewGame.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+              <folding>
+                <marker date="1556608687615" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556608687615" expanded="true" signature="116:618" ph="{...}" />
+                <marker date="1556608687615" expanded="true" signature="286:307" ph="{...}" />
+                <marker date="1556608687615" expanded="true" signature="365:504" ph="{...}" />
+                <marker date="1556608687615" expanded="true" signature="418:498" ph="{...}" />
+                <marker date="1556608687615" expanded="true" signature="535:616" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/winSpawn.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <folding>
+                <marker date="1556611364248" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556611364248" expanded="true" signature="117:480" ph="{...}" />
+                <marker date="1556611364248" expanded="true" signature="261:478" ph="{...}" />
+                <marker date="1556611364248" expanded="true" signature="315:472" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ExitGame.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+              <folding>
+                <marker date="1556612757516" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556612757516" expanded="true" signature="117:405" ph="{...}" />
+                <marker date="1556612757516" expanded="true" signature="189:210" ph="{...}" />
+                <marker date="1556612757516" expanded="true" signature="268:335" ph="{...}" />
+                <marker date="1556612757516" expanded="true" signature="363:403" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/PoisonDrop.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+              <folding>
+                <marker date="1556605796579" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556605796579" expanded="true" signature="119:450" ph="{...}" />
+                <marker date="1556605796579" expanded="true" signature="165:178" ph="{...}" />
+                <marker date="1556605796579" expanded="true" signature="195:208" ph="{...}" />
+                <marker date="1556605796579" expanded="true" signature="259:448" ph="{...}" />
+                <marker date="1556605796579" expanded="true" signature="294:444" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyDamage.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="38" selection-start-line="38" selection-end-line="38" />
+              <folding>
+                <marker date="1556591810437" expanded="false" signature="6:78" ph="..." />
+                <marker date="1556591810437" expanded="true" signature="120:1046" ph="{...}" />
+                <marker date="1556591810437" expanded="true" signature="257:291" ph="{...}" />
+                <marker date="1556591810437" expanded="true" signature="310:318" ph="{...}" />
+                <marker date="1556591810437" expanded="true" signature="362:650" ph="{...}" />
+                <marker date="1556591810437" expanded="true" signature="419:644" ph="{...}" />
+                <marker date="1556591810437" expanded="true" signature="695:1044" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyDamage.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/camFollowPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrowController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PoisonDrop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyHP.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/winSpawn.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/youWin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/EnemyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ThrowHit.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/HealthDrop.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ShootVenom.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ClearObj.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHP.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ExitGame.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/VenomController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NewGame.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/ClearObj.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Throwing.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ThrowRock.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ThrowController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyHP.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ThrowHit.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyDamage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/EnemyController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/HealthDrop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ShootVenom.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/VenomController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/camFollowPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PoisonDrop.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NewGame.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/youWin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/PlayerHP.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/winSpawn.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ExitGame.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1460" />
+    <option name="y" value="246" />
+    <option name="width" value="1074" />
+    <option name="height" value="1084" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Sprites" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1bde699b-222c-4ffa-8df2-4bd0ea181331" name="Default Changelist" comment="" />
+      <created>1556577662101</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556577662101</updated>
+      <workItem from="1556577663277" duration="9176000" />
+      <workItem from="1556591328619" duration="15766000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="24942000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1460" y="246" width="1074" height="1084" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25443786" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25443786" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Throwing.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThrowRock.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="77" column="44" selection-start-line="77" selection-start-column="44" selection-end-line="77" selection-end-column="44" />
+          <folding>
+            <marker date="1556584874201" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556584874201" expanded="true" signature="125:2311" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="597:732" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="751:1063" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="807:967" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="1010:1057" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="1087:1678" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="1558:1598" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="1632:1672" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="1695:1869" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="1892:2309" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="1933:2303" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="2019:2143" ph="{...}" />
+            <marker date="1556584874201" expanded="true" signature="2166:2293" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ClearObj.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <marker date="1556583383980" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556583383980" expanded="true" signature="117:270" ph="{...}" />
+            <marker date="1556583383980" expanded="true" signature="174:225" ph="{...}" />
+            <marker date="1556583383980" expanded="true" signature="247:268" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="61" column="63" selection-start-line="61" selection-start-column="63" selection-end-line="61" selection-end-column="63" />
+          <folding>
+            <marker date="1556599134709" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556599134709" expanded="true" signature="124:2252" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="511:630" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="654:830" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="700:824" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="874:1306" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="915:1205" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="1007:1063" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="1139:1195" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="1348:1682" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="1387:1677" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="1435:1668" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="1726:1936" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="1763:1932" ph="{...}" />
+            <marker date="1556599134709" expanded="true" signature="1955:2250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThrowHit.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="45" column="5" selection-start-line="45" selection-start-column="5" selection-end-line="45" selection-end-column="5" />
+          <folding>
+            <marker date="1556589875480" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556589875480" expanded="true" signature="117:1154" ph="{...}" />
+            <marker date="1556589875480" expanded="true" signature="236:306" ph="{...}" />
+            <marker date="1556589875480" expanded="true" signature="325:346" ph="{...}" />
+            <marker date="1556589875480" expanded="true" signature="399:848" ph="{...}" />
+            <marker date="1556589875480" expanded="true" signature="478:842" ph="{...}" />
+            <marker date="1556589875480" expanded="true" signature="669:832" ph="{...}" />
+            <marker date="1556589875480" expanded="true" signature="904:1152" ph="{...}" />
+            <marker date="1556589875480" expanded="true" signature="983:1146" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/camFollowPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+          <folding>
+            <marker date="1556604096958" expanded="false" signature="6:138" ph="..." />
+            <marker date="1556604096958" expanded="true" signature="184:816" ph="{...}" />
+            <marker date="1556604096958" expanded="true" signature="367:443" ph="{...}" />
+            <marker date="1556604096958" expanded="true" signature="506:814" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ThrowController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="21" column="44" selection-start-line="21" selection-start-column="44" selection-end-line="21" selection-end-column="44" />
+          <folding>
+            <marker date="1556585497580" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556585497580" expanded="true" signature="124:593" ph="{...}" />
+            <marker date="1556585497580" expanded="true" signature="212:503" ph="{...}" />
+            <marker date="1556585497580" expanded="true" signature="534:591" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ShootVenom.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <marker date="1556602384444" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556602384444" expanded="true" signature="119:815" ph="{...}" />
+            <marker date="1556602384444" expanded="true" signature="311:396" ph="{...}" />
+            <marker date="1556602384444" expanded="true" signature="414:431" ph="{...}" />
+            <marker date="1556602384444" expanded="true" signature="474:813" ph="{...}" />
+            <marker date="1556602384444" expanded="true" signature="537:806" ph="{...}" />
+            <marker date="1556602384444" expanded="true" signature="642:797" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/VenomController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+          <folding>
+            <marker date="1556603464831" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556603464831" expanded="true" signature="124:582" ph="{...}" />
+            <marker date="1556603464831" expanded="true" signature="207:492" ph="{...}" />
+            <marker date="1556603464831" expanded="true" signature="523:580" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyDamage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+          <folding>
+            <marker date="1556591810437" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556591810437" expanded="true" signature="120:1046" ph="{...}" />
+            <marker date="1556591810437" expanded="true" signature="257:291" ph="{...}" />
+            <marker date="1556591810437" expanded="true" signature="310:318" ph="{...}" />
+            <marker date="1556591810437" expanded="true" signature="362:650" ph="{...}" />
+            <marker date="1556591810437" expanded="true" signature="419:644" ph="{...}" />
+            <marker date="1556591810437" expanded="true" signature="695:1044" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/EnemyHP.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="28" column="44" selection-start-line="28" selection-start-column="44" selection-end-line="28" selection-end-column="44" />
+          <folding>
+            <marker date="1556589232798" expanded="false" signature="6:100" ph="..." />
+            <marker date="1556589232798" expanded="true" signature="138:897" ph="{...}" />
+            <marker date="1556589232798" expanded="true" signature="337:451" ph="{...}" />
+            <marker date="1556589232798" expanded="true" signature="470:478" ph="{...}" />
+            <marker date="1556589232798" expanded="true" signature="524:682" ph="{...}" />
+            <marker date="1556589232798" expanded="true" signature="705:895" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/HealthDrop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="26" column="32" selection-start-line="26" selection-start-column="32" selection-end-line="26" selection-end-column="32" />
+          <folding>
+            <marker date="1556600433443" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556600433443" expanded="true" signature="119:503" ph="{...}" />
+            <marker date="1556600433443" expanded="true" signature="172:193" ph="{...}" />
+            <marker date="1556600433443" expanded="true" signature="216:237" ph="{...}" />
+            <marker date="1556600433443" expanded="true" signature="282:501" ph="{...}" />
+            <marker date="1556600433443" expanded="true" signature="323:495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/youWin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="31" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
+          <folding>
+            <marker date="1556609664035" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556609664035" expanded="true" signature="115:507" ph="{...}" />
+            <marker date="1556609664035" expanded="true" signature="187:208" ph="{...}" />
+            <marker date="1556609664035" expanded="true" signature="266:287" ph="{...}" />
+            <marker date="1556609664035" expanded="true" signature="332:505" ph="{...}" />
+            <marker date="1556609664035" expanded="true" signature="373:499" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PlayerHP.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="686">
+          <caret line="68" column="32" selection-start-line="68" selection-start-column="32" selection-end-line="68" selection-end-column="32" />
+          <folding>
+            <marker date="1556610853081" expanded="false" signature="6:100" ph="..." />
+            <marker date="1556610853081" expanded="true" signature="139:1541" ph="{...}" />
+            <marker date="1556610853081" expanded="true" signature="408:579" ph="{...}" />
+            <marker date="1556610853081" expanded="true" signature="598:617" ph="{...}" />
+            <marker date="1556610853081" expanded="true" signature="661:846" ph="{...}" />
+            <marker date="1556610853081" expanded="true" signature="794:840" ph="{...}" />
+            <marker date="1556610853081" expanded="true" signature="894:1027" ph="{...}" />
+            <marker date="1556610853081" expanded="true" signature="1056:1326" ph="{...}" />
+            <marker date="1556610853081" expanded="true" signature="1353:1539" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/PoisonDrop.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <marker date="1556605796579" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556605796579" expanded="true" signature="119:450" ph="{...}" />
+            <marker date="1556605796579" expanded="true" signature="165:178" ph="{...}" />
+            <marker date="1556605796579" expanded="true" signature="195:208" ph="{...}" />
+            <marker date="1556605796579" expanded="true" signature="259:448" ph="{...}" />
+            <marker date="1556605796579" expanded="true" signature="294:444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/NewGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+          <folding>
+            <marker date="1556608687615" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556608687615" expanded="true" signature="116:618" ph="{...}" />
+            <marker date="1556608687615" expanded="true" signature="286:307" ph="{...}" />
+            <marker date="1556608687615" expanded="true" signature="365:504" ph="{...}" />
+            <marker date="1556608687615" expanded="true" signature="418:498" ph="{...}" />
+            <marker date="1556608687615" expanded="true" signature="535:616" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/winSpawn.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+          <folding>
+            <marker date="1556611364248" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556611364248" expanded="true" signature="117:480" ph="{...}" />
+            <marker date="1556611364248" expanded="true" signature="261:478" ph="{...}" />
+            <marker date="1556611364248" expanded="true" signature="315:472" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ExitGame.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="20" column="27" selection-start-line="20" selection-start-column="27" selection-end-line="20" selection-end-column="27" />
+          <folding>
+            <marker date="1556612757516" expanded="false" signature="6:78" ph="..." />
+            <marker date="1556612757516" expanded="true" signature="117:405" ph="{...}" />
+            <marker date="1556612757516" expanded="true" signature="189:210" ph="{...}" />
+            <marker date="1556612757516" expanded="true" signature="268:335" ph="{...}" />
+            <marker date="1556612757516" expanded="true" signature="363:403" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Tim\.Rider2018.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Tim\.Rider2018.3\system\resharper-host\local\Transient\ReSharperHost\v183\SolutionCaches\_New Unity Project.1404021878.00" t="ExcludeRecursive" />
+    <e p="D:\GitKraken\DGM1610\New Unity Project" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="Scripts" t="Include">
+          <e p="Animal.cs" t="Include" />
+          <e p="Bird.cs" t="Include" />
+          <e p="Collection.cs" t="Include" />
+          <e p="ColorData.cs" t="Include" />
+          <e p="Conditionals.cs" t="Include" />
+          <e p="Counter.cs" t="Include" />
+          <e p="DestroyObJ.cs" t="Include" />
+          <e p="EnemyAI.cs" t="Include" />
+          <e p="EnemyController.cs" t="Include" />
+          <e p="FlipCharacter.cs" t="Include" />
+          <e p="FloatData.cs" t="Include" />
+          <e p="FlyingSquirrel.cs" t="Include" />
+          <e p="ForceMoveType.cs" t="Include" />
+          <e p="Forces.cs" t="Include" />
+          <e p="FuncParams.cs" t="Include" />
+          <e p="HealthDrop.cs" t="Include" />
+          <e p="HealthInfo.cs" t="Include" />
+          <e p="JumpCharacter.cs" t="Include" />
+          <e p="JumpMoveType.cs" t="Include" />
+          <e p="Level Signifier.cs" t="Include" />
+          <e p="Mammal.cs" t="Include" />
+          <e p="MonoEvents.cs" t="Include" />
+          <e p="MoveCharacter.cs" t="Include" />
+          <e p="MoveTypeBase.cs" t="Include" />
+          <e p="PlayerController.cs" t="Include" />
+          <e p="playerController1.cs" t="Include" />
+          <e p="PowerUpBase.cs" t="Include" />
+          <e p="PowerUpDrain.cs" t="Include" />
+          <e p="Reptile.cs" t="Include" />
+          <e p="Rock.cs" t="Include" />
+          <e p="RunAnims.cs" t="Include" />
+          <e p="Score Threshold.cs" t="Include" />
+          <e p="Switches.cs" t="Include" />
+          <e p="ThrowRock.cs" t="Include" />
+          <e p="Turtle.cs" t="Include" />
+        </e>
+      </e>
+      <e p="Library" t="ExcludeRecursive" />
+      <e p="New Unity Project.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Temp" t="ExcludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>
